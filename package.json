@@ -1,0 +1,29 @@
+{
+  "name": "parcel-plugin-liquid",
+  "version": "1.0.0",
+  "description": "Parcel plugin for shopify liquid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "liquidjs": "^6.0.0",
+    "parcel-bundler": "^1.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devialab/parcel-plugin-liquid.git"
+  },
+  "keywords": [
+    "parcel",
+    "shopify",
+    "liquid"
+  ],
+  "bugs": {
+    "url": "https://github.com/devialab/parcel-plugin-liquid/issues"
+  },
+  "homepage": "https://github.com/devialab/parcel-plugin-liquid#readme"
+}
